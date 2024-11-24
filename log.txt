@@ -1,0 +1,16 @@
+Opening YouTube
+Started audio recording
+Started video recording
+Maximizing the window
+Opening YouTube
+Rejecting cookies
+Searching a song on YouTube
+Clicking on the song
+Closing the web browser
+Ended video recording
+Ended audio recording
+Combined audio and video into a single file
+Removed video-only file
+Removed audio-only file
+Extracted audio data
+Saved db values to a file
